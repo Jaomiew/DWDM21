@@ -1,5 +1,4 @@
 # DWDM21
-Data warehouse &amp; Data mining
 Data Warehouse & Data Mining 2021
 
 นางสาววนิศรา จงใจ 623021054-8
