@@ -23,4 +23,14 @@ Group Name : Numberone
   * ขั้นตอนการสกัดสารสนเท
   * เทคนิคในการทำ Data Mining 
 
-* บทที่ 2 [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+* บทที่ 2 
+  * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+* บทที่ 2 know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
+  * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+    * Casting การเปลี่ยนชนิดของตัวเเปร
+    * Data Structure โครงสร้างของข้อมูล
+    * Loop การวนซ้ำ
+    * Condition เงื่อนไข
+    * Function
+
+
