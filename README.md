@@ -23,11 +23,10 @@ Group Name : Numberone
   * ขั้นตอนการสกัดสารสนเทศ
   * เทคนิคในการทำ Data Mining 
 
-* บทที่ 2 Lecture
-  * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+* บทที่ 2 [Lecture คาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
 * บทที่ 2 Googlecolab
 
-** know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
+### know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
   * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
     * Casting การเปลี่ยนชนิดของตัวเเปร
     * Data Structure โครงสร้างของข้อมูล
@@ -46,8 +45,7 @@ Group Name : Numberone
        * Stacked Barchart
      * Histogram  
   
-* บทที่ 3 Lecture
-  * [สรุป Chapter 3 Handling Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
+* บทที่ 3 [Lecture Chapter 3 Handling Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
 * บทที่ 3 Googlecolab
   * [Data Preprocessing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
     * ชี้ข้อมูลในตาราง 
