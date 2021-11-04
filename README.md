@@ -38,7 +38,22 @@ Group Name : Numberone
       * Time Series Plot
   
 * บทที่ 3 Lecture
-  * [สรุป Chapter 3 Handling_Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
+  * [สรุป Chapter 3 Handling Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
+* บทที่ 3 
+  * [Data Preprocessing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
+    * ชี้ข้อมูลในตาราง 
+    * Missing Values
+    * Handling Missing Value*
+      * วิธีที่ 1 (ลบค่า missing ออกไป) 
+      * วิธีที่ 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+      * วิธีที่ 2 (แทนด้วย class ใหม่ (unknown)
+      * วิธีที่ 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม)
+      * วิธีที่ 4 (แทนด้วยค่ากลาง)
+      * วิธีที่ 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+    * Select data by values [PD]
+    * Outlier
+    * การรวมตาราง Data Integration
+    * Grop by (pandas) 
 
 
 
