@@ -15,10 +15,12 @@ Group Name : Numberone
 
 นายวิฆเนศ เกียรติเกษมสุข 623021055-6
 
-#สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
 * บทที่1 [introduction](https://github.com/Jaomiew/DWDM21/blob/main/HW1.)
   * นิยามของ Data Mining
   * ทำไมจึงต้องมี Data Mining
   * ขั้นตอนการสกัดสารสนเท
   * เทคนิคในการทำ Data Mining 
+
+* บทที่ 2 [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
