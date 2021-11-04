@@ -17,7 +17,7 @@ Group Name : Numberone
 
 #สารบัญเนื้อหา
 
-* บทที่1 [introduction] (https://github.com/Jaomiew/DWDM21/blob/main/HW1.)
+* บทที่1 [introduction](https://github.com/Jaomiew/DWDM21/blob/main/HW1.)
   * นิยามของ Data Mining
   * ทำไมจึงต้องมี Data Mining
   * ขั้นตอนการสกัดสารสนเท
