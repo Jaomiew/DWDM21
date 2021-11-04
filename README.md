@@ -14,3 +14,11 @@ Group Name : Numberone
 นางสาววนิศรา จงใจ 623021054-8
 
 นายวิฆเนศ เกียรติเกษมสุข 623021055-6
+
+#สารบัญเนื้อหา
+
+* บทที่1 [introduction] (https://github.com/Jaomiew/DWDM21/blob/main/HW1.)
+  * นิยามของ Data Mining
+  * ทำไมจึงต้องมี Data Mining
+  * ขั้นตอนการสกัดสารสนเท
+  * เทคนิคในการทำ Data Mining 
