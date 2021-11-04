@@ -23,7 +23,7 @@ Group Name : Numberone
   * ขั้นตอนการสกัดสารสนเท
   * เทคนิคในการทำ Data Mining 
 
-* บทที่ 2 
+* บทที่ 2 Lecture
   * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
 * บทที่ 2 know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
   * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
@@ -32,5 +32,18 @@ Group Name : Numberone
     * Loop การวนซ้ำ
     * Condition เงื่อนไข
     * Function
+    * [Mount G Drive](https://colab.research.google.com/github/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb#scrollTo=T5WvddexWdPX)
+      * head() , tail()
+      * Boxplot
+      * Time Series Plot
+
+
+
+
+
+
+
+
+
 
 
