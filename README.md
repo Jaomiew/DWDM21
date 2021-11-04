@@ -75,11 +75,11 @@ Group Name : Numberone
      * Useful functions
      * วนลูปเอง
        * summation
-     * Distance Matrix
+   * Distance Matrix
        * Euclidean Distance (L2-norm)
        * Distance function
        * Manhattan Distance (L1-norm)
-     * Distance of Binary Value
+   * Distance of Binary Value
 
  
 
