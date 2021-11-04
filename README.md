@@ -36,7 +36,9 @@ Group Name : Numberone
       * head() , tail()
       * Boxplot
       * Time Series Plot
-
+  
+* บทที่ 3 Lecture
+  * [สรุป Chapter 3 Handling_Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
 
 
 
