@@ -25,26 +25,39 @@ Group Name : Numberone
 
 * บทที่ 2 Lecture
       * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
-* บทที่ 2 Googlecolab
-
-##### know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
-      * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
-         * Casting การเปลี่ยนชนิดของตัวเเปร
-         * Data Structure โครงสร้างของข้อมูล
-         * Loop การวนซ้ำ
-         * Condition เงื่อนไข
-         * Function
-     * [Mount G Drive](https://colab.research.google.com/github/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb#scrollTo=T5WvddexWdPX)
-         * head() , tail()
-         * Boxplot
-         * Time Series Plot
-     * [Data Visualization](https://github.com/Jaomiew/DWDM21/blob/main/Data_Visualization.ipynb)
-         * Scatter plot
-         * Plot
-         * Bar chart
-            * Grouped Barchart
-            * Stacked Barchart
-         * Histogram  
+* บทที่ 2 Googlecolab ##### know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
+  * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+      * Casting การเปลี่ยนชนิดของตัวเเปร
+      * Data Structure โครงสร้างของข้อมูล
+      * Loop การวนซ้ำ
+      * Condition เงื่อนไข
+      * Function
+      * [Mount G Drive](https://colab.research.google.com/github/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb#scrollTo=T5WvddexWdPX)
+        * head() , tail()
+        * Boxplot
+        * Time Series Plot
+  * [Data Visualization](https://github.com/Jaomiew/DWDM21/blob/main/Data_Visualization.ipynb)
+      * Scatter plot
+      * Plot
+      * Bar chart
+        * Grouped Barchart
+        * Stacked Barchart
+      * Histogram  
+  * [Distance Numpy](https://github.com/Jaomiew/DWDM21/blob/main/Distance_Numpy.ipynb)
+     * Numpy Array
+       * สร้าง numpy array (matrix) 
+       * สร้าง matrix เริ่มต้น (zeros, ones)
+       * สร้าง matrix random
+         * matrix properties
+       * matrix properties
+       * Useful functions
+       * วนลูปเอง
+         * summation
+   * Distance Matrix
+       * Euclidean Distance (L2-norm)
+       * Distance function
+       * Manhattan Distance (L1-norm)
+   * Distance of Binary Value
   
 * บทที่ 3 Lecture
   * [สรุป Chapter 3 Handling Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
@@ -65,21 +78,7 @@ Group Name : Numberone
     * Outlier
     * การรวมตาราง Data Integration
     * Grop by (pandas) 
- * [Distance Numpy](https://github.com/Jaomiew/DWDM21/blob/main/Distance_Numpy.ipynb)
-   * Numpy Array
-     * สร้าง numpy array (matrix) 
-     * สร้าง matrix เริ่มต้น (zeros, ones)
-     * สร้าง matrix random
-       * matrix properties
-     * matrix properties
-     * Useful functions
-     * วนลูปเอง
-       * summation
-   * Distance Matrix
-       * Euclidean Distance (L2-norm)
-       * Distance function
-       * Manhattan Distance (L1-norm)
-   * Distance of Binary Value
+ 
 
  
 
