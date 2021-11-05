@@ -79,7 +79,15 @@ Group Name : Numberone
       * การรวมตาราง Data Integration
       * Grop by (pandas) 
  
-
+* บทที่ 5 Googlecolab
+  * [Association Rules](https://github.com/Jaomiew/DWDM21/blob/main/Chapeter6_Association_Rules.ipynb)
+    * Besic Concepts
+       * K-itemsets
+       * Plot graph of Itemsets
+       * Frequence Itemsets to Association Rule
+    * Efficient Pattern Mining Methods
+       * Apriori
+       * Support
  
 
 
