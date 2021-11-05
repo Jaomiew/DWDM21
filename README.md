@@ -25,14 +25,14 @@ Group Name : Numberone
 
 * บทที่ 2 Lecture
   * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
-* บทที่ 2 Googlecolab know your data ประกอบไปด้วย 3 ส่วยย่อยคือ
-  * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+* บทที่ 2 Googlecolab (know your data ประกอบไปด้วย 3 ส่วยย่อย)
+  * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/Data101(Chapter2).ipynb)
       * Casting การเปลี่ยนชนิดของตัวเเปร
       * Data Structure โครงสร้างของข้อมูล
       * Loop การวนซ้ำ
       * Condition เงื่อนไข
       * Function
-      * [Mount G Drive](https://colab.research.google.com/github/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb#scrollTo=T5WvddexWdPX)
+      * [Mount G Drive](https://github.com/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb)
          * head() , tail()
          * Boxplot
          * Time Series Plot
@@ -53,16 +53,16 @@ Group Name : Numberone
          * Useful functions
          * วนลูปเอง
               * summation
-         * Distance Matrix
-              * Euclidean Distance (L2-norm)
-              * Distance function
-              * Manhattan Distance (L1-norm)
-         * Distance of Binary Value
+      * Distance Matrix
+         * Euclidean Distance (L2-norm)
+         * Distance function
+         * Manhattan Distance (L1-norm)
+      * Distance of Binary Value
   
 * บทที่ 3 Lecture
   * [สรุป Chapter 3 Handling Missing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
 * บทที่ 3 Googlecolab
-  * [Data Preprocessing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_3_(Handling_Missing).ipynb)
+  * [Data Preprocessing](https://github.com/Jaomiew/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
       * ชี้ข้อมูลในตาราง 
          * ชี้แบบธรรมดา 
          * ชี้แบบ .iloc
@@ -78,7 +78,15 @@ Group Name : Numberone
       * Outlier
       * การรวมตาราง Data Integration
       * Grop by (pandas) 
- 
+  
+ * บทที่ 4 [ Data Warehousing and On-line Anaalytical Processing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter4-New.pdf) ประกอบไปด้วย
+   * Data Warehouse : Basic concepts
+   * Data Warehouse Mining : Data Cube and OLAP
+   * Data Warehouse Disng and Usage
+   * Data Warehouse Implementation
+
+* บทที่ 5 Lecture
+  * [สรุป Chapter 6](https://github.com/Jaomiew/DWDM21/blob/main/Chapter-6-New%20(1).pdf)
 * บทที่ 5 Googlecolab
   * [Association Rules](https://github.com/Jaomiew/DWDM21/blob/main/Chapeter6_Association_Rules.ipynb)
     * Besic Concepts
