@@ -135,7 +135,17 @@ Group Name : Numberone
          * Explore data
          * Clustering
          * Example Application
+ * [Cluster Analysis:Basic Concepts and Methods](https://github.com/Jaomiew/DWDM21/blob/main/Chapter-10-New.pdf)
+     * K-Means คืออะไร?
+     * Clustering แบบลำดับชั้น
+     * Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
+
+## MiniExam
+   * [Mid Term](https://github.com/Jaomiew/DWDM21/blob/main/MiniExam.ipynb)
+
+## Project
+   * [Project ล่าสุด](https://github.com/Jaomiew/DWDM21/blob/main/Project_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94.ipynb)
 
 
-
+![people](S__6193162.jpg)   
 
