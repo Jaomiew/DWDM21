@@ -120,6 +120,13 @@ Group Name : Numberone
 * บทที่ 7 Lecture
   * [สรุป Classifier](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
   * [Homeworks InfoD](https://github.com/Jaomiew/DWDM21/blob/main/Homeworks_InfoD.ipynb)
+* บทที่ 7 Googlecolab
+  * [Clustering](https://github.com/Jaomiew/DWDM21/blob/main/Chap8_Clustering.ipynb
+     * K-means
+         * Generate Data
+         * Explore data
+         * Clustering
+         * Example Application
 
 
 
