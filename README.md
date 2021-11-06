@@ -97,10 +97,7 @@ Group Name : Numberone
        * Apriori
        * Support
  
-* บทที่ 6 Lecture
-  * [สรุป Classifier](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
-  * [Homeworks InfoD](https://github.com/Jaomiew/DWDM21/blob/main/Homeworks_InfoD.ipynb)
-* บทที่ 6 Googlecolab (ประกอบไปด้วย 3 ส่วยย่อย)
+* บทที่ 6 ประกอบไปด้วย 3 ส่วยย่อย คือ
   * [Desition Tree](https://github.com/Jaomiew/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
       * Train Model
          * Import
@@ -120,6 +117,9 @@ Group Name : Numberone
        * สร้าง Model ทำนาย
        * Evaluation
 
+* บทที่ 7 Lecture
+  * [สรุป Classifier](https://github.com/Jaomiew/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
+  * [Homeworks InfoD](https://github.com/Jaomiew/DWDM21/blob/main/Homeworks_InfoD.ipynb)
 
 
 
