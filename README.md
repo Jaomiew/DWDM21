@@ -115,7 +115,10 @@ Group Name : Numberone
        * Train Model
        * Retrain & Evaluate
        * Neural Network
-
+   * [Evaluation](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Split Data
+       * สร้าง Model ทำนาย
+       * Evaluation
 
 
 
