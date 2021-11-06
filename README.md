@@ -110,7 +110,11 @@ Group Name : Numberone
       * Evaluation
       * Advanced Tree
       * TEST
-
+   * [KNN](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+       * Split Data
+       * Train Model
+       * Retrain & Evaluate
+       * Neural Network
 
 
 
