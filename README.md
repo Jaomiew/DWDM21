@@ -19,6 +19,8 @@
 
 # สารบัญเนื้อหา
 
+รายวิชา Data Warehouse & Data Mining เป็นวิชาที่เกี่ยวกับ Data ว่ามีกระบวนการอะไรบ้าง หลังจากถูกเก็บไว้ใน Data Base เพื่อนนำมาสกัดเป็นความรู้ นำไปใช้ประโยชน์ , ใช้ในการวางแผน ซึ่งก็คือ Data Mining 
+
 ## บทที่1 
 * [introduction](https://github.com/Jaomiew/DWDM21/blob/main/HW1.)
   * นิยามของ Data Mining
@@ -29,6 +31,8 @@
 ## บทที่ 2 
 #### Lecture
   * [สรุปการบ้านคาบ 1 Know your data](https://github.com/Jaomiew/DWDM21/blob/main/HW2.ipynb)
+    * ประเภทข้อมูล
+    * ลักษณะสำคัญของข้อมูล
 #### Googlecolab 
  * know your data ประกอบไปด้วย 3 ส่วยย่อย
    * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/Data101(Chapter2).ipynb)
@@ -88,13 +92,26 @@
  ## บทที่ 4 
   * [ Data Warehousing and On-line Anaalytical Processing](https://github.com/Jaomiew/DWDM21/blob/main/Chapter4-New.pdf) ประกอบไปด้วย
      * Data Warehouse : Basic concepts
+       * คลังข้อมูลอะไร
+       * วัตถุประสงค์
+       * การบูรณาการ
      * Data Warehouse Mining : Data Cube and OLAP
+       * OLTP vs. OLAP
+       * Data Cubes
+       * Conceptual Modeling of Data Warehouse
      * Data Warehouse Disng and Usage
      * Data Warehouse Implementation
 
 ## บทที่ 5 
 #### Lecture
   * [สรุป Chapter 6](https://github.com/Jaomiew/DWDM21/blob/main/Chapter-6-New%20(1).pdf)
+    * Besic Concepts
+      * Plot graph of Itemsets
+      * การแก้ไขคอลัมน์ข้อมูล
+      * Frequence Itemsets to Association Rule
+    * Efficient Pattern Mining Methods
+      * Apriori
+      * Support
 #### Googlecolab
   * [Association Rules](https://github.com/Jaomiew/DWDM21/blob/main/Chapeter6_Association_Rules.ipynb)
     * Besic Concepts
